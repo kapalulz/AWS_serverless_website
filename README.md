@@ -1,7 +1,7 @@
 # AWS_serverless_website 
 [-------> Go to website <-------](https://x86yytftfh.execute-api.us-east-1.amazonaws.com/default/generateYoutubeLink)
 
-**For a new video, press 'F5' or the refresh button (located in the upper right corner).**
+<ins>**For a new video, press 'F5' or the refresh button (located in the upper right corner).**<ins>
 
 Title: AWS Serverless YouTube Video Generator
 
