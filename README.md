@@ -1,7 +1,8 @@
 # AWS_serverless_website 
 [-------> Go to website <-------](https://x86yytftfh.execute-api.us-east-1.amazonaws.com/default/generateYoutubeLink)  
 
-<ins>**For a new video, press 'F5' or the refresh button (located in the upper right corner).**</ins>  <img width="40" height="25" src="https://cdn.discordapp.com/attachments/359470187088576514/1152316266166616114/image-removebg-preview_3.png">
+<ins>**For a new video, press 'F5' or the refresh button (located in the upper right corner).**</ins>  
+<img width="40" height="25" src="https://cdn.discordapp.com/attachments/359470187088576514/1152316266166616114/image-removebg-preview_3.png">
 
 Title: AWS Serverless YouTube Video Generator
 
