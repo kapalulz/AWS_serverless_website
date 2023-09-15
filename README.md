@@ -16,3 +16,7 @@ AWS Lambda Integration: The project utilizes AWS Lambda, a serverless computing 
 API Endpoint: The application is powered by an API hosted on AWS, which generates and delivers YouTube video links. You can access the API directly via this link: API Link.
 
 By combining the benefits of serverless architecture with the allure of random YouTube video discovery and the ability to refresh for new videos, this project showcases the capabilities of AWS Lambda while providing users with an entertaining and ever-changing online experience.
+
+
+<p align="center">
+   <img width="400" height="250" src="https://cdn.discordapp.com/attachments/359470187088576514/1152314708465045614/image.png">
