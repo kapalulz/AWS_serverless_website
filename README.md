@@ -15,7 +15,7 @@ Refresh for New Videos: The website allows users to refresh the page to instantl
 
 AWS Lambda Integration: The project utilizes AWS Lambda, a serverless computing service, to ensure cost-efficient and scalable functionality without the need for traditional server management.
 
-API Endpoint: The application is powered by an API hosted on AWS, which generates and delivers YouTube video links. You can access the API directly via this link: [API Link]((https://x86yytftfh.execute-api.us-east-1.amazonaws.com/default/generateYoutubeLink)
+API Endpoint: The application is powered by an API hosted on AWS, which generates and delivers YouTube video links. You can access the API directly via this link: [API Link](https://x86yytftfh.execute-api.us-east-1.amazonaws.com/default/generateYoutubeLink)
 
 By combining the benefits of serverless architecture with the allure of random YouTube video discovery and the ability to refresh for new videos, this project showcases the capabilities of AWS Lambda while providing users with an entertaining and ever-changing online experience.
 
