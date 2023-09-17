@@ -1,7 +1,7 @@
 import json
 
 html = '''<!DOCTYPE html>
-<html lang="en" style="height: 100%;">
+<html lang="en" style="height: 50%;">
   <head>
  
     <!-- Meta yo -->
@@ -17,7 +17,7 @@ html = '''<!DOCTYPE html>
                 -webkit-transform: rotate(0deg);
             }
             to{
-                -webkit-transform: rotate(360deg);
+                -webkit-transform: rotate(60deg);
             }
         }
         .rotating {
@@ -49,7 +49,7 @@ html = '''<!DOCTYPE html>
         msallowfullscreen="msallowfullscreen" 
         oallowfullscreen="oallowfullscreen" 
         webkitallowfullscreen="webkitallowfullscreen"
-        width="50%" height="50%"> </iframe>
+        width="100%" height="100%"> </iframe>
  
     <span class="refresh rotating" onclick="updateSrc()">↻</span>
     <script>
