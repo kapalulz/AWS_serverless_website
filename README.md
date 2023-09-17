@@ -21,4 +21,4 @@ By combining the benefits of serverless architecture with the allure of random Y
 
 
 <p align="center">
-   <img width="400" height="250" src="https://cdn.discordapp.com/attachments/359470187088576514/1152314708465045614/image.png">
+   <img width="400" height="250" src="https://cdn.discordapp.com/attachments/359470187088576514/1153041949444542664/image.png">
