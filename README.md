@@ -4,7 +4,7 @@
 <ins>**For a new video, press 'F5' or the refresh button (located in the upper right corner).**</ins>  
 <img width="40" height="25" src="https://cdn.discordapp.com/attachments/359470187088576514/1152316266166616114/image-removebg-preview_3.png">
 
-Title: AWS Serverless YouTube Video Generator
+Title: AWS Serverless YouTube Video Generator or YouTok
 
 Overview:
 Create an engaging and dynamic web application that generates random YouTube video links. This project leverages the power of AWS Lambda to build a serverless website that offers users an intriguing experience.
