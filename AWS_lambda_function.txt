@@ -3,15 +3,19 @@ import json
 html = '''<!DOCTYPE html>
 <html lang="en" style="height: 100%;">
   <head>
- 
-    <!-- Meta yo -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="favicon.ico" rel="icon" type="image/x-icon" />
  
-    <title>Meaningless Video</title>
+    <title>YouTok</title>
     <style>
+        body {
+            background-image: url('https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==');
+            background-repeat: no-repeat;
+            background-attachment: fixed; 
+            background-size: 100% 100%;
+        }
         @-webkit-keyframes rotating {
             from{
                 -webkit-transform: rotate(0deg);
@@ -27,33 +31,89 @@ html = '''<!DOCTYPE html>
             text-align: center;
             display: inline-block;
             position: absolute;
-            top: 15px;
-            right: 15px;
+            top: %;
+            right: 50%;
             height: 60px;
             line-height: 60px;
             width: 60px;
             font-size: 40px;
             border-radius: 30px;
-            background-color: #b53f51;
-            transform: rotate(360deg);
+            background-color: #ffd447;
+            transform: rotate(90deg);
             cursor: pointer;
-            color: white;
+            color: rgb(0, 119, 255);
         }
     </style>
 </head>
- 
-<body style="height: 100%;">
+
+
+
+<section class="u-clearfix u-white u-section-1" id="sec-a923">
+    <div class="u-clearfix u-sheet u-valign-top-lg u-sheet-1" data-image-width="1372" data-image-height="655">
+      <img class="u-expanded-width-xs u-image u-image-default u-image-1" src="images/404-1.gif" alt="" data-image-width="800" data-image-height="600">
+      <a href="http://okashuba.link/" class="u-border-none u-btn u-button-style u-gradient u-hover-feature u-none u-btn-1"> ↩ Back to Home Page</a>
+      <div class="u-list u-list-1">
+        <div class="u-repeater u-repeater-1">
+          <div class="u-container-align-center-md u-container-align-center-sm u-container-align-center-xs u-container-style u-list-item u-repeater-item">
+            <div class="u-container-layout u-similar-container u-container-layout-1">
+              <blockquote class="u-align-center u-custom-font u-font-merriweather u-text u-text-1"> Nightride</blockquote>
+              <div class="u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-custom-html u-custom-html-1">
+                <audio controls="">
+                  <source src="horse.ogg" type="audio/ogg">
+                  <source src="https://stream.nightride.fm/nightride.m4a" type="audio/mpeg"> Your browser does not support the audio element. 
+                </audio>
+              </div>
+              <blockquote class="u-align-center u-border-palette-3-base u-custom-font u-font-merriweather u-text u-text-2">Rekt</blockquote>
+              <div class="u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-custom-html u-expanded-width u-custom-html-2">
+                <audio controls="">
+                  <source src="horse.ogg" type="audio/ogg">
+                  <source src="&#9;https://stream.nightride.fm/rekt.m4a" type="audio/mpeg"> Your browser does not support the audio element. 
+                </audio>
+              </div>
+              <blockquote class="u-align-center u-custom-font u-font-merriweather u-text u-text-3"> Rektory<span style="font-weight: 700;"></span>
+              </blockquote>
+              <div class="u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-custom-html u-expanded-width u-custom-html-3">
+                <audio controls="">
+                  <source src="horse.ogg" type="audio/ogg">
+                  <source src="https://stream.nightride.fm/rektory.m4a" type="audio/mpeg"> Your browser does not support the audio element. 
+                </audio>
+              </div>
+              <blockquote class="u-align-center u-border-palette-3-base u-custom-font u-font-merriweather u-text u-text-4"> 70s – Der 70er Channel</blockquote>
+              <div class="u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-custom-html u-expanded-width u-custom-html-4">
+                <audio controls="">
+                  <source src="horse.ogg" type="audio/ogg">
+                  <source src="https://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=64ror4qq%230%233n0n1r460r913pns018o3350ornq3128%23nhqvb&amp;aw_0_1st.playerid=audio&amp;amsparams=playerid:audio;skey:1693181149" type="audio/mpeg"> Your browser does not support the audio element. 
+                </audio>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </section>
+  
+  <center> 
+    <h2 style="background: linear-gradient(to right, #ff9900, #ff66cc); -webkit-background-clip: text; color: transparent; font-style: italic; font-weight: bold;">The YouTok Serverless Website</h2>
+    <p style="background: linear-gradient(to right, #00b7ff, #ff66cc); -webkit-background-clip: text; color: transparent; font-style: italic; font-weight: bold;">The website is hosted on AWS Lambda, providing a serverless architecture.</p>
+</center> 
+
+
+<body style="height: 70%;">
+    <center>
     <iframe id="video" 
-        allowfullscreen="allowfullscreen"
+        //allowfullscreen="allowfullscreen"
+        width="560"
+        height="315"
         mozallowfullscreen="mozallowfullscreen" 
         msallowfullscreen="msallowfullscreen" 
         oallowfullscreen="oallowfullscreen" 
         webkitallowfullscreen="webkitallowfullscreen"
         width="100%" height="100%"> </iframe>
- 
+    </center>    
     <span class="refresh rotating" onclick="updateSrc()">↻</span>
     <script>
-        
+  
     var srcs = [
         "VAC-5BQnuXI", "-w-58hQ9dLk", "ymFDtbk2teE", "oQaasxr3zWY", "NHO84rOp8FQ", "unSEV4v3qJI",
         "9ZS0diVzjxg", "pfwOqlnCKQs", "nPtMHSYtPc4", "RVP67Kffh3M", "Kpi5UXuoCzQ", "nLvhMOLKb-o",
@@ -117,6 +177,8 @@ html = '''<!DOCTYPE html>
 </body>
 </html>
 '''
+
+
 
 def lambda_handler(event, context):
     # TODO implement
