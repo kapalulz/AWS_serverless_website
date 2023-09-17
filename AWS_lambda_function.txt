@@ -1,7 +1,7 @@
 import json
 
 html = '''<!DOCTYPE html>
-<html lang="en" style="height: 50%;">
+<html lang="en" style="height: 100%;">
   <head>
  
     <!-- Meta yo -->
@@ -17,7 +17,7 @@ html = '''<!DOCTYPE html>
                 -webkit-transform: rotate(0deg);
             }
             to{
-                -webkit-transform: rotate(60deg);
+                -webkit-transform: rotate(360deg);
             }
         }
         .rotating {
