@@ -25,3 +25,5 @@ By exploring this project, you can experience an interactive web page that combi
 
 <p align="center">
    <img width="400" height="250" src="https://cdn.discordapp.com/attachments/359470187088576514/1153041949444542664/image.png">
+     <img width="400" height="250" src="https://cdn.discordapp.com/attachments/359470187088576514/1153075298015924264/image.png">
+     </p>
