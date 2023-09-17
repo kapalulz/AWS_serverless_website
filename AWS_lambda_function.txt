@@ -34,7 +34,7 @@ html = '''<!DOCTYPE html>
             width: 60px;
             font-size: 40px;
             border-radius: 30px;
-            background-color: #3F51B5;
+            background-color: #b53f51;
             transform: rotate(360deg);
             cursor: pointer;
             color: white;
