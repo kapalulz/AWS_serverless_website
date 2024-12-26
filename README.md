@@ -2,7 +2,7 @@
 [-------> Go to website <-------](https://x86yytftfh.execute-api.us-east-1.amazonaws.com/default/generateYoutubeLink)  
 
 <ins>**For a new video/Radio, press 'F5' or the refresh button or Mouse Scroll Down**</ins>  
-<img width="40" height="25" src="https://cdn.discordapp.com/attachments/359470187088576514/1152316266166616114/image-removebg-preview_3.png">
+<img width="40" height="25" src="https://cdn.discordapp.com/attachments/1054808486283849859/1321677220674011188/image.png?ex=676e1b54&is=676cc9d4&hm=fb0649893d359b7cdb6e5aa20256f7b8bbc4c319848cc82666b83298a9838e57&">
 
 **Title: AWS Serverless YouTube Video Generator or YouTok**
 
@@ -24,6 +24,6 @@ By exploring this project, you can experience an interactive web page that combi
 
 
 <p align="center">
-   <img width="400" height="250" src="https://cdn.discordapp.com/attachments/359470187088576514/1153041949444542664/image.png">
-     <img width="400" height="250" src="https://cdn.discordapp.com/attachments/359470187088576514/1153075298015924264/image.png">
+   <img width="400" height="250" src="https://cdn.discordapp.com/attachments/1054808486283849859/1321677498622283776/image.png?ex=676e1b97&is=676cca17&hm=5e8eb26fb560de0b9d654f9eb44676a1d5096a3da79d16fcce04a36ee2bcce34&">
+     <img width="400" height="250" src="https://cdn.discordapp.com/attachments/1054808486283849859/1321677572819517570/image.png?ex=676e1ba8&is=676cca28&hm=5b7827580e051573a0e6c0a0ed68a4c5ee82c3fb13cd3aaed3ffe7112b2c6a19&">
      </p>
