@@ -2,7 +2,7 @@
 [-------> Go to website <-------](https://x86yytftfh.execute-api.us-east-1.amazonaws.com/default/generateYoutubeLink)  
 
 <ins>**For a new video/Radio, press 'F5' or the refresh button or Mouse Scroll Down**</ins>  
-<img width="40" height="25" src="https://cdn.discordapp.com/attachments/1054808486283849859/1321677220674011188/image.png?ex=676e1b54&is=676cc9d4&hm=fb0649893d359b7cdb6e5aa20256f7b8bbc4c319848cc82666b83298a9838e57&">
+<img width="40" height="25" src="https://cdn.discordapp.com/attachments/1054808486283849859/1321677498622283776/image.png?ex=676e1b97&is=676cca17&hm=5e8eb26fb560de0b9d654f9eb44676a1d5096a3da79d16fcce04a36ee2bcce34&">
 
 **Title: AWS Serverless YouTube Video Generator or YouTok**
 
